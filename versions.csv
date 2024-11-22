@@ -1,0 +1,73 @@
+Package,Version
+build-essential,Not installed
+python3-venv,Not installed
+python3-pyelftools,Not installed
+net-tools,Not installed
+curl,7.81.0
+git,2.34.1
+wget,1.21.2
+nano,6.2
+python3-ftdi1,Not installed
+python3-serial,Not installed
+libncurses-dev,Not installed
+libgtk2.0-dev,Not installed
+libglib2.0-dev,Not installed
+libglade2-dev,Not installed
+make,4.3
+sudo,1.9.9
+qtbase5-dev,Not installed
+qt5-qmake,Not installed
+pkg-config,0.29.2
+bc,1.07.1
+xvfb,Not installed
+bison,Not installed
+ccache,Not installed
+cmake,Not installed
+dfu-util,Not installed
+flex,Not installed
+gcc,22.04
+gperf,Not installed
+jq,Not installed
+libffi-dev,Not installed
+libssl-dev,Not installed
+libusb-1.0-0,Not installed
+ninja-build,Not installed
+python3,3.10.12
+python3-dev,Not installed
+python3-pip,Not installed
+srecord,Not installed
+unzip,11.4.0
+libqt5widgets5,Not installed
+libx11-xcb1,Not installed
+qtbase5-dev-tools,Not installed
+xz-utils,Not installed
+libgl1,Not installed
+libglu1-mesa,Not installed
+libxcb1,Not installed
+libxcb-util1,Not installed
+libxcb-render0,Not installed
+libxcb-shape0,Not installed
+libxcb-shm0,Not installed
+libxcb-xfixes0,Not installed
+libxcb-keysyms1,Not installed
+libxcb-icccm4,Not installed
+libxcb-image0,Not installed
+libxcb-randr0,Not installed
+libxcb-render-util0,Not installed
+libxcb-xinerama0,Not installed
+libxcb-xkb1,Not installed
+libwayland-client0,Not installed
+libwayland-egl1,Not installed
+libwayland-cursor0,Not installed
+qtwayland5,Not installed
+libgl1-mesa-dev,Not installed
+libx11-dev,Not installed
+libxext-dev,Not installed
+libxrender-dev,Not installed
+libxtst-dev,Not installed
+libxi-dev,Not installed
+libxkbcommon-x11-0,Not installed
+libgl1-mesa-dri,Not installed
+libgl1-mesa-glx,Not installed
+mesa-utils,Not installed
+,Not installed
